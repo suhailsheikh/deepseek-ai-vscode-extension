@@ -14,7 +14,7 @@ Created a custom VS Code Extension using Ollama and DeepSeek R1!
 # Installation
 
 1. Clone this repository:
-`git clone https://github.com/suhailsheikh/deepseek-ai-vscode-ext.git`
+`git clone https://github.com/suhailsheikh/deepseek-ai-vscode-extension.git`
 `cd deepseek-ai-vscode-extension`
 
 2. Install the dependencies:
